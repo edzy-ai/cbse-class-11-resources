@@ -8,7 +8,7 @@ const classes = [
   { label: 'Class 8',  href: 'https://edzy-ai.github.io/cbse-class-08-resources/' },
   { label: 'Class 9',  href: 'https://edzy-ai.github.io/cbse-class-09-resources/' },
   { label: 'Class 10', href: 'https://edzy-ai.github.io/cbse-class-10-resources/' },
-  { label: 'Class 11', href: '#' },
+  { label: 'Class 11', href: 'https://edzy-ai.github.io/cbse-class-11-resources/' },
   { label: 'Class 12', href: 'https://edzy-ai.github.io/cbse-class-12-resources/' },
 ]
 
